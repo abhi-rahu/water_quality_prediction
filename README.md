@@ -5,3 +5,6 @@ Water quality prediction uses machine learning or statistical models to forecast
 .pkl file
 https://drive.google.com/drive/folders/1CC5-PskVLeH3ArLTktFNxPSRwRo1p_u9?usp=sharing
 ---
+# week-3
+.pkl file
+https://drive.google.com/file/d/1RIcs8xxN2EDrfzQITVhNKndmj-sP6_lo/view?usp=sharing
